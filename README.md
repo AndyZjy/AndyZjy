@@ -9,6 +9,6 @@
 - 🌱  Recently learning photography knowledge.
 - 📚  Recently fell in love with books about workplace relations.
 - 💻  More than 3 year of development work experience.
-- ⛵  Live seriously, work happily.
+- ⛵  Live happily, work happily.
 - ✍🏻  Put your back into it!
 - ✨  Fake it until you become it.
