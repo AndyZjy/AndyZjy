@@ -1,7 +1,4 @@
 ### Hi I'm Jerome Zhang 👋
-<div align="center">
-  <img src="https://github.com/AndyZjy/AndyZjy/blob/main/img/bg.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
 
 - 🧐  Interested in Front-end.
 - 💼  Front-end Engineer at DTStack Group.
