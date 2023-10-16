@@ -1,7 +1,7 @@
 ### Hi I'm Jerome Zhang 👋
 
 - 🧐  Interested in Front-end.
-- 💼  Front-end Engineer at DTStack Group.
+- 💼  Front-end Engineer.
 - 🎓  17th graduate of School of Optoelectronics, Shandong Jianzhu University.
 - 🌱  Recently learning photography knowledge.
 - 📚  Recently fell in love with books about workplace relations.
