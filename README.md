@@ -1,4 +1,4 @@
-### Hi I'm Jerome Zhang.I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies. 👋
+### Hi I'm Jerome Zhang. 👋
 
 - 🧐  Interested in Front-end.
 - 💼  Front-end Engineer.
@@ -9,6 +9,7 @@
 - ⛵  Live happily, work happily.
 - ✍🏻  Put your back into it!
 - ✨  Fake it until you become it.
+- I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
 ##### GitHub Stats
 
