@@ -6,7 +6,7 @@
 - 🎓  17th graduate of School of Optoelectronics, Shandong Jianzhu University.
 - 🌱  Recently learning photography knowledge.
 - 📚  Recently fell in love with books about workplace relations.
-- 💻  More than 7 years of development work experience.
+- 💻  More than 8 years of development work experience.
 - ⛵  Live happily, work happily.
 - ✍🏻  Put your back into it!
 - ✨  Fake it until you become it.
