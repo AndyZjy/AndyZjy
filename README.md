@@ -10,6 +10,8 @@
 - ⛵  Live happily, work happily.
 - ✍🏻  Put your back into it!
 - ✨  Fake it until you become it.
+- 💬 Ask me about JavaScript, CSS , React
+- 📫 How to reach me: 15966685680@163.com
 - I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
 <!--
